@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garrett-dm
-- 👀 I’m interested in skateboarding, art, music, any sports, movies.
-- 🌱 I’m currently learning basic html, css, javascript, and python. I am a college student at Purdue studying Web Programming and Design.
+- 👀 I’m interested in video games, art, music, sports, movies.
+- 🌱 I’m currently learning basic html, css, javascript, and python. I am an electrician located in Indiana. 
 - 💞️ I’m looking to collaborate on nothing at the moment. Currently exploring github. 
 - 📫 How to reach me ---> 
 
